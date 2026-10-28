@@ -406,6 +406,8 @@ blockquote.quote {
 .footer-row { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 28px; align-items: start; }
 .ft-links { display: grid; gap: 6px; justify-items: end; }
 .ft-links a { font: 600 .86rem/1.4 var(--sans); text-decoration: none; }
+.ft-links span { color: var(--muted); }
+.ft-links a:hover { text-decoration: underline; }
 @media (max-width: 860px) {
   .footer-row { grid-template-columns: 1fr; gap: 12px; }
   .ft-links { justify-items: start; }

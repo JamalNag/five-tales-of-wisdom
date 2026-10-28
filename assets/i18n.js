@@ -146,8 +146,9 @@ window.FT_I18N = {
     'ct.p': 'Kitab və ya məktəb görüşü ilə bağlı suallar üçün:',
     'ct.copy': 'Kopyala',
     'ft.orn': 'Saytdakı ulduzun səkkiz guşəsi var və iki üst-üstə düşən kvadratdan yaranır. Bu ulduz Azərbaycan, Gürcüstan və Özbəkistanın kaşı və toxuculuq naxışlarında rast gəlinir. Saytın rəngləri olan firuzəyi, tünd yaşılımtıl-mavi və zəfərani həmin bölgənin şirli kaşılarından götürülüb.',
+    'ft.also': 'Həmçinin:',
     'ft.wfa': 'Women Forward Azerbaijan →',
-    'ft.meh': '“Mehriban”da üç il →',
+    'ft.meh': 'Mehribanda üç il →',
     'ft.amo': 'Gənc oğlanın geyindiyi feminist şüarlar →'
   },
 
@@ -291,8 +292,9 @@ window.FT_I18N = {
     'ct.p': 'По вопросам о книге или визите в школу:',
     'ct.copy': 'Копировать',
     'ft.orn': 'Звезда на сайте восьмиконечная, она складывается из двух наложенных квадратов. Такая звезда встречается в азербайджанских, грузинских и узбекских изразцах и тканях. Цвета сайта — бирюзовый, тёмно-бирюзовый и шафрановый — взяты с глазурованных изразцов того же региона.',
+    'ft.also': 'Также:',
     'ft.wfa': 'Women Forward Azerbaijan →',
     'ft.meh': 'Три года в «Мехрибан» →',
-    'ft.amo': 'Феминистские лозунги на молодом человеке →'
+    'ft.amo': 'Феминистские лозунги на молодом мужчине →'
   }
 };
